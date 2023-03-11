@@ -6,9 +6,9 @@ public class _1Solution {
     2
     1
     Поехали!!! */
-        int a = 3;
-        int b = 2;
-        int c = 1;
+        String a = "3";
+        String b = "2";
+        String c = "1";
         String go = "Поехали!!!";
         System.out.println(a);
         System.out.println(b);
